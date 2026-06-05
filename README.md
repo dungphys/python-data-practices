@@ -1,4 +1,4 @@
-# Small projects for practicing python for data analytics.
+# Data analytics practice with Python.
 
 ## **Project 1:** AB_testing
 
